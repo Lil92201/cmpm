@@ -1,1 +1,2 @@
-# cmpm
+# cmpm Get familiar with Three.js
+The things that I still need further investigation is how the wireframe works to make the geometry more observable. From the three.js example, this one https://github.com/mrdoob/three.js/blob/master/examples/webgl_decals.html seems pretty interesting. This example shows a realistic human figure where the mouse can be clicked to decal the face. Besides the interactable web pages, I examined the codes and it turns out that the codes organization are really elegant and has potential values to contribute to the final project.
